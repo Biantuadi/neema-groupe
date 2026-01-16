@@ -5,7 +5,7 @@ export const companyInfo = {
   tagline: "Excellence et Innovation au Service de Votre Entreprise",
   description: "Groupe Neema est votre partenaire de confiance pour accompagner la croissance et la transformation de votre entreprise. Nous offrons des solutions sur mesure adaptées à vos besoins spécifiques.",
   email: "contact@groupeneema.com",
-  address: "Paris, France",
+  address: "Nancy, France",
   siret: "981765399"
 };
 
@@ -154,7 +154,7 @@ export const contactInfo = {
     {
       icon: "MapPin",
       label: "Adresse",
-      value: "Paris, France",
+      value: "Nancy, France",
       link: "#"
     }
   ]

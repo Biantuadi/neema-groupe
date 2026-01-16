@@ -6,7 +6,7 @@ Créer un site vitrine pour Groupe Neema (SIRET: 981765399) conformément aux ex
 ## Company Information
 - **Name**: Groupe Neema
 - **SIRET**: 981765399
-- **Location**: Paris, France
+- **Location**: Nancy, France
 - **Email**: contact@groupeneema.com
 - **Business**: Services professionnels et conseil d'entreprise
 
@@ -55,7 +55,7 @@ Créer un site vitrine pour Groupe Neema (SIRET: 981765399) conformément aux ex
 
 **Contact Information**:
 - Email: contact@groupeneema.com ✅
-- Adresse: Paris, France ✅
+- Adresse: Nancy, France ✅
 - Téléphone: RETIRÉ (non requis) ✅
 
 **Sections Retirées** (à la demande du client):
