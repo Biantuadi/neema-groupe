@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { Phone, Mail, MapPin, Send } from 'lucide-react';
+import { Mail, MapPin, Send } from 'lucide-react';
 import { Button } from '../ui/button';
 import { Input } from '../ui/input';
 import { Textarea } from '../ui/textarea';
@@ -8,7 +8,6 @@ import { contactInfo } from '../../mock';
 import { toast } from 'sonner';
 
 const iconMap = {
-  Phone,
   Mail,
   MapPin
 };
