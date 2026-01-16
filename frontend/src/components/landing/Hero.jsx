@@ -93,7 +93,7 @@ const Hero = () => {
             <div className="absolute -bottom-6 -left-6 bg-white rounded-xl shadow-xl p-6 border border-gray-100">
               <div className="flex items-center space-x-4">
                 <div className="w-12 h-12 bg-teal-100 rounded-lg flex items-center justify-center">
-                  <span className="text-2xl font-bold text-teal-600">10+</span>
+                  <span className="text-2xl font-bold text-teal-600">3+</span>
                 </div>
                 <div>
                   <p className="text-sm text-gray-500">Années</p>
