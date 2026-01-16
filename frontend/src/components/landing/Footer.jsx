@@ -1,5 +1,5 @@
 import React from 'react';
-import { Mail, Phone, MapPin } from 'lucide-react';
+import { Mail, MapPin } from 'lucide-react';
 import { companyInfo } from '../../mock';
 
 const Footer = () => {
@@ -37,13 +37,6 @@ const Footer = () => {
                 <Mail className="w-5 h-5" />
                 <span>{companyInfo.email}</span>
               </a>
-              <a
-                href={`tel:${companyInfo.phone}`}
-                className="flex items-center space-x-3 text-gray-400 hover:text-teal-400 transition-colors"
-              >
-                <Phone className="w-5 h-5" />
-                <span>{companyInfo.phone}</span>
-              </a>
               <div className="flex items-center space-x-3 text-gray-400">
                 <MapPin className="w-5 h-5" />
                 <span>{companyInfo.address}</span>
@@ -59,7 +52,6 @@ const Footer = () => {
                 { label: 'Accueil', id: 'hero' },
                 { label: 'Services', id: 'services' },
                 { label: 'À Propos', id: 'about' },
-                { label: 'Équipe', id: 'team' },
                 { label: 'Contact', id: 'contact' }
               ].map((item) => (
                 <li key={item.id}>

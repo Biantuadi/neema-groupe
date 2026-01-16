@@ -4,8 +4,7 @@ export const companyInfo = {
   name: "Groupe Neema",
   tagline: "Excellence et Innovation au Service de Votre Entreprise",
   description: "Groupe Neema est votre partenaire de confiance pour accompagner la croissance et la transformation de votre entreprise. Nous offrons des solutions sur mesure adaptées à vos besoins spécifiques.",
-  phone: "+33 1 XX XX XX XX",
-  email: "contact@groupe-neema.fr",
+  email: "contact@groupeneema.com",
   address: "Paris, France",
   siret: "981765399"
 };
@@ -15,7 +14,7 @@ export const heroContent = {
   subtitle: "Votre Partenaire Stratégique pour la Réussite de Votre Entreprise",
   description: "Solutions professionnelles innovantes et accompagnement personnalisé pour propulser votre activité vers de nouveaux sommets.",
   ctaText: "Découvrir nos services",
-  image: "https://images.unsplash.com/photo-1758518731457-5ef826b75b3b?crop=entropy&cs=srgb&fm=jpg&ixid=M3w4NTYxOTF8MHwxfHNlYXJjaHwxfHxwcm9mZXNzaW9uYWwlMjBidXNpbmVzcyUyMHRlYW18ZW58MHx8fHwxNzY4NTU1MzI1fDA&ixlib=rb-4.1.0&q=85"
+  image: "https://images.unsplash.com/photo-1573164574572-cb89e39749b4"
 };
 
 export const services = [
@@ -147,16 +146,10 @@ export const contactInfo = {
   description: "Notre équipe est à votre disposition pour discuter de vos besoins et vous proposer des solutions adaptées.",
   methods: [
     {
-      icon: "Phone",
-      label: "Téléphone",
-      value: "+33 1 XX XX XX XX",
-      link: "tel:+331XXXXXXXX"
-    },
-    {
       icon: "Mail",
       label: "Email",
-      value: "contact@groupe-neema.fr",
-      link: "mailto:contact@groupe-neema.fr"
+      value: "contact@groupeneema.com",
+      link: "mailto:contact@groupeneema.com"
     },
     {
       icon: "MapPin",
